@@ -4,5 +4,3 @@ Repositorio para el seminario de Git y GitHub
 Se añade una nueva línea.
 
 Se añade otra linea.
-
-Se añade una linea desde VScode.
